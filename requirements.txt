@@ -1,3 +1,4 @@
 ipywidgets
 openai
 voila
+openai==0.28
